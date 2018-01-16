@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Plural Test</string>
+
+  <plurals name="has_zero">
+    <item quantity="zero">%d book (zero)</item>
+    <item quantity="one">%d book (one)</item>
+    <item quantity="other">%d books (other)</item>
+  </plurals>
+
+  <plurals name="no_zero">
+    <item quantity="one">%d book (one)</item>
+    <item quantity="other">%d books (other)</item>
+  </plurals>
+</resources>
